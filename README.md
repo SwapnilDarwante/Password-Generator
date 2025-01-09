@@ -1,3 +1,3 @@
 ## Password Generator
 
-by Swapnil
+by Swapnil Darwante
