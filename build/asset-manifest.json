@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SwapnilDarwante/Password-Generator/static/css/main.b8c19415.css",
+    "main.js": "/SwapnilDarwante/Password-Generator/static/js/main.628d07c7.js",
+    "static/js/453.2a7d545f.chunk.js": "/SwapnilDarwante/Password-Generator/static/js/453.2a7d545f.chunk.js",
+    "index.html": "/SwapnilDarwante/Password-Generator/index.html",
+    "main.b8c19415.css.map": "/SwapnilDarwante/Password-Generator/static/css/main.b8c19415.css.map",
+    "main.628d07c7.js.map": "/SwapnilDarwante/Password-Generator/static/js/main.628d07c7.js.map",
+    "453.2a7d545f.chunk.js.map": "/SwapnilDarwante/Password-Generator/static/js/453.2a7d545f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c19415.css",
+    "static/js/main.628d07c7.js"
+  ]
+}
